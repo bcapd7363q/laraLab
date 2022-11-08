@@ -42,8 +42,8 @@ In order to ensure that the laraLab community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within laraLab, please send an e-mail to Taylor Otwell via [bcapd7363q@laralab.com](mailto:bcapd7363q@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within laraLab, please send an e-mail to Taylor Otwell via [bcapd7363q@ybl](mailto:radharbikashdash@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The laralab framework is open-sourced software licensed under the [NIIT license](https://opensource.org/licenses/NIIT).
+The laraLab framework is open-sourced software licensed under the [NIIT license](https://opensource.org/licenses/NIIT).
