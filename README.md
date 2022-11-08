@@ -7,7 +7,7 @@ LaraLab takes the pain out of development by easing common problem between  cons
 
 PAGE | TOUCH | EVM
 --- | --- | ---
-`login` | *scene* | **signature**
+``login`` | **scene** | **signature**
 🧑‍🦯 | 🎭 | 🎭
 
 ## road map
