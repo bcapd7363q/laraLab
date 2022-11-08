@@ -65,4 +65,9 @@ The laraLab framework is open-sourced software licensed under the [NIIT license]
 - composer install
 - php artisan key:generate
 - php artisan migrate
-- php artisan serve
+
+¬ php artisan serve
+  
+>` INFO  Server running on [http://127.0.0.1:8000]`
+
+>` Press Ctrl+C to stop the server`
