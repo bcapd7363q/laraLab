@@ -48,9 +48,13 @@ In order to ensure that the laraLab community is welcoming to all, please review
 
 If you discover a security vulnerability within `laraLab`.
 
-please send an e-mail to bikash dash UPI ID: `bcapd7363q@ybl`
+E-mail: BIKASH DASH
+(mailto:radharbikashdash@gmail.com) 
 
-(mailto:radharbikashdash@gmail.com). All security vulnerabilities will be promptly addressed.
+UPI-id: BIKASH DASH
+(PhonePe:bcapd7363q@ybl). 
+
+All security vulnerabilities will be promptly addressed.
 
 ## License
 
