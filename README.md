@@ -47,3 +47,7 @@ If you discover a security vulnerability within laraLab, please send an e-mail t
 ## License
 
 The laraLab framework is open-sourced software licensed under the [NIIT license](https://opensource.org/licenses/NIIT).
+
+## artisan
+- composer install
+- php artisan key:generate
