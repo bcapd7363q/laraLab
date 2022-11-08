@@ -46,7 +46,7 @@ In order to ensure that the laraLab community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within laraLab, please send an e-mail to bikash dash UPI ID: [bcapd7363q@ybl](mailto:radharbikashdash@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within laraLab, please send an e-mail to bikash dash UPI ID: [`bcapd7363q@ybl`](mailto:radharbikashdash@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
