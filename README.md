@@ -72,4 +72,6 @@ The laraLab framework is open-sourced software licensed under the [NIIT license]
 
 >` Press Ctrl+C to stop the server`
 
+¬ php artisan make:controller
 
+>`INFO  Controller [${www}laraLab/app/Http/Controllers/MasterController.php] created successfully.`
